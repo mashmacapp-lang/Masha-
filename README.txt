@@ -1,7 +1,8 @@
 MASHMAC - FREE STARTER
 1. Host these files on a static web host.
 2. Open app.js and replace:
-https://xufqrewcdzwrxsplmyob.supabase.co
+PASTE_YOUR_PROJECT_URL_HERE
+PASTE_YOUR_PUBLISHABLE_KEY_HERE
 sb_publishable_dGLMfCstvVtQ0KryZqssng_GLzmTfZy
 3. Keep BUCKET = "mashmac".
 4. Your Supabase bucket must allow the logged-in user to upload/list/delete their own folder.
