@@ -1,6 +1,6 @@
 // MashMac setup: put your Supabase values in the two constants below.
 const SUPABASE_URL = "https://xufqrewcdzwrxsplmyob.supabase.co";
-const SUPABASE_PUBLISHABLE_KEY = "sb_publishable_dGLMfCstvVtQ0KryZqssng_GLzmTfZy";
+const SUPABASE_PUBLISHABLE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inh1ZnFyZXdjZHp3cnhzcGxteW9iIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTEwMzM4MjUsImV4cCI6MjEwNjYwOTgyNX0.5AixvrspTamltUE6qbRJfjpAJSv9z19nyoNThkmwkGM";
 const BUCKET = "mashmac";
 
 const authView=document.getElementById("authView"), appView=document.getElementById("appView");
